@@ -10,6 +10,12 @@
       "id": 55976,
       "text": "Do things",
       "day": "Tomorrow",
+      "reminder": false
+    },
+    {
+      "id": 11642,
+      "text": "Pick Up Roscoe Medication",
+      "day": "Soon",
       "reminder": true
     }
   ]
