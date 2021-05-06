@@ -1,6 +1,7 @@
 # Task Tracker
 
 The primary reason for this project is just to get familiar working with some of the basic concepts in [Vue.js](https://v3.vuejs.org/).
+
 This project is built using version 3 of Vue.js. A JSON server is also implmeneted to quickly setup CRUD for the todos.
 
 ## Project setup
